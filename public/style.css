@@ -1,0 +1,60 @@
+.navbar .navbar-collapse {
+    text-align: center;
+  }
+.btn-outline-success{
+  color: cadetblue;
+  border-color: cadetblue;
+}
+.nav {
+  border-top-width: 10px;
+  border-top-style: solid;
+  border-bottom-width: 10px;
+  border-bottom-style: solid;
+}
+body{
+  background-color: darkslategray;
+}
+
+h4{
+  background-color: darkslategray;
+  color: rgb(177, 169, 169);
+}
+.navbar-light .navbar-brand {
+  color: rgba(0,0,0,.9);
+  color: rgba(242, 233, 233, 0.9);
+  }
+a { color: inherit; text-decoration: none }
+#headername{
+  font-size: 200%;
+  color: aliceblue;
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+}
+#undername{
+font-size: 130%;
+color: aliceblue;
+}
+#icons{
+  max-width: 8%;
+  height: auto;
+}
+#icontext{
+  margin-left: 0%;
+  margin-right: 0%;
+  margin-bottom: 0%;
+  font-size: 1.2vw;
+}
+.offcanvas{
+  background-color: darkgrey;
+}
+.navbar {
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+#headerimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  
+}
